@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @galaxydotco
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Information Technology and Cybersecurity
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me spamm6770@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+
