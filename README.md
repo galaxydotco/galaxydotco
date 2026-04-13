@@ -1,5 +1,6 @@
 # Jasmine Morgan Dev Profile
 I am an Information Technology (cont. Cybersecurity) Major at UNA
+
 [My Github Account](https://github.com/galaxydotco)
 
 # My Game Project
