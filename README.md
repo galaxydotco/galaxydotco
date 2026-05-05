@@ -23,7 +23,8 @@ I am an Information Technology (Cybersecurity concentration) major at the Univer
 
 ➪ [View Source Code](https://github.com/galaxydotco/cis376-web-game)
 
-<img width="1551" height="909" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/4f770955-5890-4eab-b077-08340346ce7d" />
+<img width="1914" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/712201d1-52bf-40ba-b602-26c9df23aeb6" />
+
 
 ---
 
