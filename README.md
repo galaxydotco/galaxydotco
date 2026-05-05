@@ -2,6 +2,7 @@
 I am an Information Technology (cont. Cybersecurity) Major at UNA
 
 [My Github Account](https://github.com/galaxydotco)
+
 [LinkedIn](https://www.linkedin.com/in/jasmine-morgan-1a1b50269/)
 
 
