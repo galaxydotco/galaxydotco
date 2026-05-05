@@ -3,6 +3,7 @@
 I am an Information Technology (Cybersecurity concentration) major at the University of North Alabama.
 
 🔗 [My GitHub Account](https://github.com/galaxydotco)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/jasmine-morgan-1a1b50269/)
 
 ---
