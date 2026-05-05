@@ -9,7 +9,6 @@ I am an Information Technology (Cybersecurity concentration) major at the Univer
 ---
 
 ## 🚀 Featured Project
-
 ### DoS Attack (Web Puzzle Game)
 
 > A fast-paced browser game where players repair network paths under time pressure to stop a simulated cyber attack.
